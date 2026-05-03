@@ -1,13 +1,13 @@
 # 🏥 Healthcare Analytics Dashboard
 
-## Project Summary
+## 📌 Project Summary
 
 The **Healthcare Analytics Dashboard** is an interactive Power BI solution designed to analyze healthcare data and provide actionable insights.
 It enables better understanding of patient demographics, treatment patterns, and hospital performance to support data-driven decision-making.
 
 ---
 
-## Key Objectives
+## 🎯 Key Objectives
 
 * Analyze patient demographics (age, gender, etc.)
 * Evaluate treatment costs and trends
@@ -16,7 +16,7 @@ It enables better understanding of patient demographics, treatment patterns, and
 
 ---
 
-## Dashboard Features
+## 📊 Dashboard Features
 
 * Interactive and dynamic visuals
 * Advanced filtering using slicers
@@ -25,7 +25,7 @@ It enables better understanding of patient demographics, treatment patterns, and
 
 ---
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
 * **Power BI** – Dashboard development & visualization
 * **Excel / CSV** – Data source
@@ -33,7 +33,26 @@ It enables better understanding of patient demographics, treatment patterns, and
 
 ---
 
-## Key Insights
+## 📷 Dashboard Preview
+
+![Dashboard Preview](screenshots/dashboard.png)
+<img width="1283" height="712" alt="Screenshot 2025-12-14 215331" src="https://github.com/user-attachments/assets/fec93929-cdc0-481d-a303-3a965d06a063" />
+
+---
+
+## 📁 Repository Structure
+
+```
+Healthcare-Analytics-Dashboard/
+│── Healthcare Analytic Dashboard.pbix
+│── README.md
+│── screenshots/
+│   └── dashboard.png
+```
+
+---
+
+## 📈 Key Insights
 
 * Identified patient distribution based on demographics
 * Analyzed treatment cost variations
@@ -42,7 +61,7 @@ It enables better understanding of patient demographics, treatment patterns, and
 
 ---
 
-## Future Enhancements
+## 🔮 Future Enhancements
 
 * Integration with real-time data sources
 * Advanced KPI metrics and forecasting
@@ -50,7 +69,7 @@ It enables better understanding of patient demographics, treatment patterns, and
 
 ---
 
-## Use Case
+## 💼 Use Case
 
 This dashboard can be used by:
 
@@ -62,7 +81,8 @@ to gain insights and improve operational efficiency.
 
 ---
 
-## Author
+## 👩‍💻 Author
 
 **Avantika**
 Aspiring Data Analyst | Power BI Enthusiast
+
