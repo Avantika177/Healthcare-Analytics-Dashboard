@@ -1,4 +1,4 @@
-<img width="1283" height="712" alt="Screenshot 2025-12-14 215331" src="https://github.com/user-attachments/assets/23e76ab9-9b5b-4af6-8921-4decc9927358" /># 🏥 Healthcare Analytics Dashboard
+🏥 Healthcare Analytics Dashboard
 
 ## 📌 Project Summary
 
@@ -49,17 +49,6 @@ It enables better understanding of patient demographics, treatment patterns, and
 
 ---
 
-## 📁 Repository Structure
-
-```
-Healthcare-Analytics-Dashboard/
-│── Healthcare Analytic Dashboard.pbix
-│── README.md
-│── screenshots/
-│   └── dashboard.png
-```
-
----
 
 ## 📈 Key Insights
 
